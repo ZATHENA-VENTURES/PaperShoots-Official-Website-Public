@@ -1,77 +1,49 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/c8aebc2e-6987-40d5-9472-2ff731e30880
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/c8aebc2e-6987-40d5-9472-2ff731e30880) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c8aebc2e-6987-40d5-9472-2ff731e30880) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<p align="center">
+  <img src="https://papershoots.world/daemonOS.png" alt="PaperShoots — PaperHandPapi" width="560"/>
+</p>
+<h1 align="center">PaperShoots — PaperHandPapi</h1>
+<p align="center">
+  <strong>The official portfolio of the artist PaperHandPapi — music, video editing, and photography, presented as an immersive, interactive "daemonOS" desktop experience.</strong>
+</p>
+<p align="center">
+  <a href="https://papershoots.world" target="_blank" rel="noopener noreferrer"><strong>🌐 Enter The Experience</strong></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
+</p>
 
 ---
-ℹ️ This is the **public version** of the private repository [ZATHENA-VENTURES/PaperShoots-Official-Website](https://github.com/ZATHENA-VENTURES/PaperShoots-Official-Website).
-It contains the official README, project description, and homepage link but omits sensitive deployment details.
+
+## ✨ Key Features
+
+The official site is a one-of-a-kind interactive portfolio for PaperHandPapi, featuring:
+
+*   **🖥️ The "daemonOS" Interface**: A full creative portfolio reimagined as a retro desktop operating system you explore like a real OS — windows, apps, and all.
+*   **🎵 Music**: Stream the artist's tracks through a built-in in-site music player.
+*   **🎬 Video Editing**: A showcase of original video editing and film work.
+*   **📷 Photography**: Curated photo galleries highlighting the artist's photography.
+*   **🎮 Hidden Experiences**: Easter-egg "apps," embedded mini-experiences, and surprises tucked throughout the OS.
+*   **📱 Native Mobile App**: Packaged for iOS and Android via Capacitor for an app-like experience on mobile.
+*   **📱 Fully Responsive**: A design that adapts across desktop and mobile devices.
+
+---
+
+## 📜 License
+
+© 2026 PaperHandPapi / PaperShoots. All rights reserved.
+
+---
+
+## 📞 Credits & Contact
+
+*   **Website:** [papershoots.world](https://papershoots.world)
+*   **Artist:** PaperHandPapi
+*   **Hosted/Designed by:** [Zathena Ventures](https://zathenaventures.xyz)
+
+---
+
+> ℹ️ This is the **public showcase version** of this project's repository. It presents the project, its features, and live site, and omits source code and deployment details.
