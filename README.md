@@ -1,9 +1,6 @@
+<h1 align="center">🖥️ PaperShoots — PaperHandPapi</h1>
 <p align="center">
-  <img src="https://papershoots.world/daemonOS.png" alt="PaperShoots — PaperHandPapi" width="560"/>
-</p>
-<h1 align="center">PaperShoots — PaperHandPapi</h1>
-<p align="center">
-  <strong>The official portfolio of the artist PaperHandPapi — music, video editing, and photography, presented as an immersive, interactive "daemonOS" desktop experience.</strong>
+  <strong>The interactive "daemonOS" creative portfolio of the artist PaperHandPapi — music, video editing, and photography, reimagined as a desktop operating system.</strong>
 </p>
 <p align="center">
   <a href="https://papershoots.world" target="_blank" rel="noopener noreferrer"><strong>🌐 Enter The Experience</strong></a>
